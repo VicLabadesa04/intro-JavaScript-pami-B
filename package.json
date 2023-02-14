@@ -1,0 +1,20 @@
+{
+  "name": "intro-javascript-pami-b",
+  "version": "1.0.0",
+  "description": "Revisão JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicLabadesa04/intro-JavaScript-pami-B.git"
+  },
+  "keywords": ["Revisão Javascript"],
+  "author": "Victória Barbosa Labadesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicLabadesa04/intro-JavaScript-pami-B/issues"
+  },
+  "homepage": "https://github.com/VicLabadesa04/intro-JavaScript-pami-B#readme"
+}
