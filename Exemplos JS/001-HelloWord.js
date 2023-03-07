@@ -29,3 +29,10 @@ console.log ("");;
 console.log ("----------------------------------");
 console.log(typeof(coresfavoritas));
 
+const eharray = array.isarray(coresfavoritas);
+console.log(eharray=== true ? 'É um array': 'Não é u, array');
+if (eharray === true) {
+    console.log (' É um array');
+} else {
+    console.log ('Não é um array');
+}

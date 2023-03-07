@@ -10,11 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/VicLabadesa04/intro-JavaScript-pami-B.git"
   },
-  "keywords": ["Revisão Javascript"],
+  "keywords": [
+    "Revisão Javascript"
+  ],
   "author": "Victória Barbosa Labadesa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/VicLabadesa04/intro-JavaScript-pami-B/issues"
   },
-  "homepage": "https://github.com/VicLabadesa04/intro-JavaScript-pami-B#readme"
+  "homepage": "https://github.com/VicLabadesa04/intro-JavaScript-pami-B#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
